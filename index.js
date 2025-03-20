@@ -26,12 +26,18 @@ let skillsList = document.createElement('ul')
 
 for (let skill = 0; skill < skills.length; skill++ ) {
     console.log(skills[skill])
-    let listItem = document.createElement('li')
-    listItem.innerHTML = skills[skill]
-    skillsList.appendChild(listItem)
+    let listItem = document.createElement('li') 
+    let buttonItem = document.createElement('button')
+    buttonItem.innerHTML = "View More"
+    listItem.innerHTML = skills[skill] 
+    skillsList.appendChild(listItem) 
+    skillsList.appendChild(buttonItem)
 }
 
 skillsContainer.appendChild(skillsList)
+
+//add button to the skillsContainer to view more about skills.
+
 
 
 projectContainer.innerHTML = `
@@ -43,11 +49,15 @@ let projectList = document.createElement('ol')
 projects.forEach((project) => {
     let listItem = document.createElement('li')
     listItem.innerHTML = project
+    let buttonItem = document.createElement('button')
+    buttonItem.innerHTML = "View More"
     projectList.appendChild(listItem)
+    projectList.appendChild(buttonItem)
 })
 
 projectContainer.appendChild(projectList)
 
+//add button to the projectContainer to view more about projects.
 
 // End of skills section 
 
