@@ -1,7 +1,7 @@
-let heading = 'The Life of Joseph'
-let paragraph= 'joseph is a self taught software engineer'
+let heading = 'The Life of Julius'
+let paragraph= 'Julius is a self taught software engineer'
 const skills = ['Problem Solving', 'Good Communicator', 'Team Player', 'Self Taught', 'Fast Learner']
-const projects = ['Project 1', 'Project 2', 'Project 3', 'Project 4', 'Project 5']
+const projects = ['Odin Project', 'Learn Kenya', 'Git-Test', 'My-Blog', 'Punchlines-KE', 'Style-UP']
 
 const aboutMeSection = document.getElementById("aboutme")
 const skillsSection = document.getElementById("skillsprojects")

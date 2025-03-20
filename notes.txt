@@ -1,4 +1,4 @@
-A web app that describes about the life of Joseph as a person
+A web app that describes about the life of Julius as a person
 
 - Provide a solution: 
 
