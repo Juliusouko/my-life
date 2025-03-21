@@ -1,0 +1,21 @@
+{
+    
+    "Mylife": {
+        "Skills": [
+        {"id": 1,"Problem Solving":"This is something I really excel at, not to brag but it is evident in this project. I Believe everyone is capable of everything too."},
+        {"id": 2,"Good Communicator":"I can use whatsapp efficiently"},
+        {"id": 3,"Team Player":"Yeah definitely the fool you need in your team, everything in two two"},
+        {"id": 4,"Self Taught":"I never sleep at night, I try to create cool stuff"},
+        {"id":5,"Fast Learner":"Yaani I Learn chap chap one of my Talents!"}
+    ],
+    "Projects": [
+        {"id": 1,"Odin Project":"This is an online project anyone can participate in. It is cool Brother! Try it today."},
+        {"id": 2,"Learn Kenya":"Am also trying to educate anyone who may come across my web. You should try it out dude if not support ME"},
+        {"id": 3,"Git-Test":"As the name suggests this is all about GIT,GTAs, and all G's"},
+        {"id": 4,"My-Blog":"It's a blog i don't write anything fancy fam, instead call me we have a talk talk"},
+        {"id": 5,"Punchlines-KE":"Matter of fact, you've never seen any mafucker style his words like me, BOOK a session with me rn!"},
+        {"id": 6,"Style-UP":"Once i get the bank, i groom and style my parents the rest i will try to have a family and if not take a profession at Pimping and stuff"}
+    ],
+    "Heading":"This is a Test Heading!"
+    }
+}
