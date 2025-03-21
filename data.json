@@ -1,6 +1,6 @@
 {
     
-    "Mylife": {
+    
         "Skills": [
         {"id": 1,"Problem Solving":"This is something I really excel at, not to brag but it is evident in this project. I Believe everyone is capable of everything too."},
         {"id": 2,"Good Communicator":"I can use whatsapp efficiently"},
@@ -17,5 +17,5 @@
         {"id": 6,"Style-UP":"Once i get the bank, i groom and style my parents the rest i will try to have a family and if not take a profession at Pimping and stuff"}
     ],
     "Heading":"This is a Test Heading!"
-    }
+    
 }
